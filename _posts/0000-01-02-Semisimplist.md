@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Ye who strain at the gnat yet swallow the camel!"
 
 ---
 
